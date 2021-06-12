@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=Fast01%20Github&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=150&section=header&text=Fast01%20Github&fontSize=50&fontColor=FFFFFF&animation=twinkling)
 
 <p align="center">🍟 Fast01 github 🍟</p>
 <br></br>
