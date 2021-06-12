@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=150&section=header&text=Fast01%20Github&fontSize=50&fontColor=FFFFFF&animation=twinkling)
 
-<p align="center">🍟 Fast01 github 🍟</p>
-<br></br>
 <h2 align="center">👩‍💻 My Stack 👩‍💻</h2>
   <h4 align="center">🍟 Programing Languge </h4>
   <p align="center">
