@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
+  <img src="https://i.ibb.co/16SYvHd/20200830-00-04-24.png" alt="20200830-00-04-24" border="0">
   </p>
 
 <div align="center">
