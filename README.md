@@ -1,6 +1,7 @@
 <div align="left">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0116&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0116&hide_title=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <h2 align="left">My Stack 🛠</h2>
   <p align="left">
