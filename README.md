@@ -7,9 +7,10 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0116&hide_title=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
-##<!--
-</div>
-<h2 align="left">My Stack 🛠</h2>
+
+<!-- </div> -->
+
+<!-- <h2 align="left">My Stack 🛠</h2>  
   <h3>main</h3>
   <p align="left">
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&Color=8AA4FF&logo=Python&logoColor=white"/></a>&nbsp 
@@ -37,5 +38,4 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
   </p>
-
 -->
