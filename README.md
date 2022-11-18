@@ -1,16 +1,26 @@
 <div align="left">
- 
   <h2 align="left"> 🐳My BOJ & GIT</h2>
 <div align="left">
  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokhyeon116)](https://solved.ac/seokhyeon116)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0116&hide_title=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-  
 
-<!-- </div> -->
+<h2 align="left">My contest 🏆</h2>  
+2021 육군참모총장상 - 군장병 SW해커톤 (프로젝트 : 밀스캔) </br>
+2022 카카오대표이사상 대상 - kakaox구름 9oormthon (프로젝트 : 제주일름) </br>
+2022 대상 - 제주 인공지능·블록체인 아이디어 경진대회 공모전 (프로젝트 : 제주일름) </br>
+2022 한국지능정보사회진흥원장상 NIA - 전국 인공지능 아이디어 경진대회 공모전  (프로젝트 : 제주일름) </br>
+2022 행정안전부 장관상 - 오픈 데이터 포럼 해커톤 (프로젝트 : VIDA) </br>
 
-<!-- <h2 align="left">My Stack 🛠</h2>  
+<h2 align="left">My experience 🐘</h2>  
+20.06~20.12 - SW Maestro 11기 </br>
+21.03~21.09 - ROKA CERT (21-3) </br>
+22.10~23.02 - KDT 쿠버네티스 전문가 양성 과정 7기 </br>
+
+<!--
+</div>
+<h2 align="left">My Stack 🛠</h2>  
   <h3>main</h3>
   <p align="left">
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&Color=8AA4FF&logo=Python&logoColor=white"/></a>&nbsp 
