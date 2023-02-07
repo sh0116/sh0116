@@ -16,7 +16,7 @@
 <h2 align="left">My experience 🐘</h2>  
 20.06~20.12 - SW Maestro 11기 </br>
 21.03~21.09 - ROKA CERT (21-3) </br>
-22.10~23.02 - KDT 쿠버네티스 전문가 양성 과정 7기 </br>
+23.01~23.03 - HyperGrowth BackEnd Intern </br>
 
 <!--
 </div>
