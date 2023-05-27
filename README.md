@@ -1,11 +1,29 @@
-<div align="left">
-  <h2 align="left"> 🐳My BOJ & GIT</h2>
-<div align="left">
- 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokhyeon116)](https://solved.ac/seokhyeon116)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh0116&hide_title=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
+<h2 align="left">My Stack 🛠</h2>  
+  <h4>Backend</h4>
+  <p align="left">
+  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&Color=8AA4FF&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
+  <h4>Infra & DevOps</h4>
+  <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/naver cloud platform-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
+  <h4>ETC</h4>
+  <p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>&nbsp 
+  
+  </p>
+  
 <h2 align="left">My contest 🏆</h2>  
 2021 육군참모총장상 - 군장병 SW해커톤 (프로젝트 : 밀스캔) </br>
 2022 카카오대표이사상 대상 - kakaox구름 9oormthon (프로젝트 : 제주일름) </br>
@@ -17,6 +35,13 @@
 20.06~20.12 - SW Maestro 11기 </br>
 21.03~21.09 - ROKA CERT (21-3) </br>
 23.01~23.03 - HyperGrowth BackEnd Intern </br>
+
+<div align="left">
+  <h2 align="left"> 🐳My BOJ </h2>
+<div align="left">
+ 
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokhyeon116)](https://solved.ac/seokhyeon116)
+</div>
 
 <!--
 </div>
