@@ -35,11 +35,14 @@
 20.06~20.12 - SW Maestro 11기 </br>
 21.03~21.09 - ROKA CERT (21-3) </br>
 23.01~23.03 - HyperGrowth BackEnd Intern </br>
+
+
+
 <!--
 <div align="left">
   <h2 align="left"> 🐳My BOJ </h2>
 <div align="left">
- 
+ [![Solved.ac 프로필](http://43.202.17.133:5000/contribution/sh0116)](http://43.202.17.133:5000/contribution/sh0116)
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokhyeon116)](https://solved.ac/seokhyeon116)
 </div>
 
