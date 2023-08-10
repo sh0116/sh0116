@@ -1,4 +1,4 @@
-본부본<h2 align="left">My Stack 🛠</h2>  
+<h2 align="left">My Stack 🛠</h2>  
   <h4>Backend</h4>
   <p align="left">
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&Color=8AA4FF&logo=Python&logoColor=white"/></a>&nbsp 
