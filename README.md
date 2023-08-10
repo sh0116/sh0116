@@ -1,4 +1,4 @@
-<h2 align="left">My Stack 🛠</h2>  
+본부본<h2 align="left">My Stack 🛠</h2>  
   <h4>Backend</h4>
   <p align="left">
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&Color=8AA4FF&logo=Python&logoColor=white"/></a>&nbsp 
@@ -35,7 +35,7 @@
 20.06~20.12 - SW Maestro 11기 </br>
 21.03~21.09 - ROKA CERT (21-3) </br>
 23.01~23.03 - HyperGrowth BackEnd Intern </br>
-
+23.07~ - 미래에셋증권 - AI혁신본부 데이터플랫폼팀  </br>
 
 
 <!--
