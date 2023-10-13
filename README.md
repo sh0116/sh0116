@@ -34,8 +34,8 @@
 <h2 align="left">My experience 🐘</h2>  
 20.06~20.12 - SW Maestro 11기 </br>
 21.03~21.09 - ROKA CERT (21-3) </br>
-23.01~23.03 - HyperGrowth BackEnd Intern </br>
-23.07~ - 미래에셋증권 - AI혁신본부 데이터플랫폼팀  </br>
+23.01~23.03 - HyperGrowth BackEnd Intern - BackEnd Dev </br>
+23.07~ - Mirae Asset Securities (Data Platform Team) - Data Engineer  </br>
 
 
 <!--
