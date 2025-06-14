@@ -32,7 +32,7 @@
 20.06~20.12 - SW Maestro 11기 </br>
 21.03~21.09 - ROKA CERT (21-3) </br>
 23.01~23.03 - HyperGrowth BackEnd Intern - BackEnd Dev </br>
-23.07~ - Mirae Asset Securities (Data Platform Team) - Data Engineer  </br>
+23.07~ - Mirae Asset Securities (Data Platform Team) - AIOps Engineer  </br>
 
 
 <!--
